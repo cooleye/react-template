@@ -1,8 +1,8 @@
-################ react + es6 + webpack 架构模板 ################
+react + es6 + webpack 架构模板
 ===================================
 
-项目目录结构
-
+**项目目录结构**
+-----------------
 |_____app （开发目录）
 |      |____common （公共文件，例如css,工具代码等）#
 |      |____components  (组件目录)#
@@ -18,7 +18,7 @@
 |
 |_____webpack.config.js （webpack 配置文件）#
 
-使用方法：
+__使用方法：__
 
 1、git clone git@github.com:cooleye/react-template.git
 
