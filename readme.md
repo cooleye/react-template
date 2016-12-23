@@ -18,7 +18,7 @@
 _使用方法：_
 -----------------
 
-### 1. `git clone git@github.com:cooleye/react-template.git`
+### 1. `git clone https://github.com/cooleye/react-template.git`
 
 ### 2. `npm install` 安装依赖
 ### 3. `npm start` 运行项目
