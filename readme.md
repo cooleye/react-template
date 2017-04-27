@@ -19,9 +19,9 @@ _使用方法：_
 -----------------
 
 ### 1. `git clone https://github.com/cooleye/react-template.git`
-
-### 2. `npm install` 安装依赖
-### 3. `npm start` 运行项目
+### 2. `cd react-template` 进入项目目录
+### 3. `npm install` 安装依赖
+### 4. `npm start` 运行项目
 
 
 -----------------------------------------
